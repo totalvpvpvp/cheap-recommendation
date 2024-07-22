@@ -16,7 +16,7 @@
 |Shadowsocks|	100G/月	|SSR	|200Mbps|	￥11.8|	|	[官网](https://clever99.com/j/shadowsocks)|
 |飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网](https://clever99.com/j/flyingbird)|
 |金坷垃|	3200G一次性	|SSR|	128 Mbps	|￥13.1	|有8折优惠|	[官网](https://clever99.com/j/jinkela)|
-
+1
 
 ## XSUS机场
 
